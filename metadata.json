@@ -1,0 +1,7 @@
+{
+  "name": "DNS Manager Pro",
+  "description": "Aplikasi DNS Manager berbasis web untuk mengelola domain dan DNS records dengan API Token, toggle proxy Cloudflare, dan DNS lookup realtime.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
